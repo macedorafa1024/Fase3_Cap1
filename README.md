@@ -1,4 +1,16 @@
-# 🌾 FarmTech Solutions – Fase 2: Sistema de Irrigação Inteligente
+# FIAP - Faculdade de Informática e Administração Paulista
+
+## Sistema de Irrigação Inteligente
+
+## 👨‍🎓 Integrantes:
+- Rafael Gomes de Macedo (RM566955)
+
+## 👩‍🏫 Professores:
+
+### Tutor(a):
+- Sabrina Otoni
+### Coordenador(a):
+- André Godoi
 
 ## 🎯 Objetivo do Projeto
 Desenvolver um **sistema de irrigação automatizado** utilizando o **ESP32** no ambiente **Wokwi**, simulando sensores agrícolas e uma bomba d’água controlada via relé.  
@@ -84,10 +96,3 @@ O sistema funciona como um **mini modelo de agricultura de precisão**, aplicand
 
 ## 📹 Demonstração em Vídeo
 🎥 [Link do vídeo de demonstração no YouTube](https://youtube.com/) *(coloque aqui o link do seu vídeo não listado)*
-
----
-
-## 👨‍💻 Autores
-Projeto desenvolvido pela equipe **FarmTech Solutions**  
-📍 Curso: *Inteligência Artificial e Computação Aplicada* – FIAP  
-📆 Fase 2 – 2025  
