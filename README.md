@@ -95,4 +95,4 @@ O sistema funciona como um **mini modelo de agricultura de precisão**, aplicand
 ---
 
 ## 📹 Demonstração em Vídeo
-🎥 [Link do vídeo de demonstração no YouTube](https://youtube.com/) *(coloque aqui o link do seu vídeo não listado)*
+🎥 [(https://youtu.be/7MeSR1ksDNE)]
